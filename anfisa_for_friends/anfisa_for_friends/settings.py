@@ -97,3 +97,7 @@ STATICFILES_DIRS = [
     ]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+DEFAULT_CHARSET = 'utf-8'
+
+LANGUAGE_CODE = 'ru-RU'
